@@ -73,9 +73,3 @@ barplot.set(title="Companies",xlabel="Type",ylabel="Stock Price")
 plt.savefig('companies.png')
 
 
-
-"""
-add documentation to the code
-add a third category
-make it neater
-"""
